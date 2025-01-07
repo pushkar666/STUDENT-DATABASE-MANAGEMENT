@@ -37,7 +37,7 @@ This is a Spring Boot-based application for managing courses, students, reviews,
 ## File Structure
 ```
 src/main/java
-├── com.example.coursemanagement
+├── studentdbms
 │   ├── controller
 │   │   ├── CourseController.java
 │   │   ├── StudentController.java
@@ -74,7 +74,7 @@ src/main/java
 - Java 17+
 - Spring Boot
 - Maven
-- MySQL or H2 Database
+- H2 Database
 
 ## Getting Started
 1. Clone the repository:
